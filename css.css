@@ -1,0 +1,645 @@
+.mmmmm{
+       position: relative; 
+       top: 0px;      
+       left: 600px;
+}
+.ccccc{
+       position: absolute;
+       top: 20px;
+       right: 50px;
+}
+.ttttt{
+       display: flex;
+       justify-content: space-around;
+       position: relative;
+       top: 100px;
+       padding-left: 400px;
+       padding-right: 400px;
+
+     
+       
+}
+
+.fff{
+       outline: 1px solid gainsboro;
+       position: relative;
+       top: 65px;
+       color: rgb(244, 238, 238);
+}
+.kkkkk{
+       background-color: rgb(166, 240, 240);
+       width: 100%;
+       height: 500px;
+       margin-top: 100px;
+       
+}
+.ddd{
+     text-align: right;  
+position: relative;
+top: -400px;
+right: 350px;
+
+font-size: 40px;
+}
+.ttt{
+         
+       
+       position: relative;
+       top: -390px;
+       right: -935px;
+
+      
+}
+.lolo{
+       background-color: blueviolet;
+       color: white;
+       position: absolute;
+       right: 475px; 
+       top: 580px;     
+       font-size: 20px;
+}
+.jjjjj{
+  
+       
+       margin-top: 15px;
+}
+.fffff{
+       
+       margin-top: 15px;
+}
+.ddddd{
+      
+       margin-top: 15px;
+}
+.aaaaa{
+       margin-top: 100px;
+       display: flex;
+       justify-content: space-around;
+}
+.abcd{
+       display: flex;
+       height: 400px;
+       width: 1200px;
+       margin-top: 200px;
+     
+       padding-left: 200px;
+       
+}
+.dddd{
+       width: 100%;
+       height: 100%;
+       border: 2px solid white;
+       margin: 30px;
+
+       position: relative;
+       
+}
+.aaaa{
+       width: 100%;
+       height: 100%;
+       border: 2px solid white;
+       margin: 30px;
+       justify-content: center;
+       position: relative;
+
+}
+.ssss{
+       width: 100%;
+       height: 100%;
+
+       border: 2px solid white;
+       margin: 30px;
+       position: relative;
+}
+.imge{
+       position: absolute;
+       width: 100%;
+       height: 100%;
+       z-index: -1;
+}
+.pppp{
+       margin-top: 330px;
+       margin-left: 5px;
+       color: white;
+       
+}
+.ppp{
+       margin-top: 7px;
+       font-size: 30px;
+       margin-left: 5px;
+       color: white;
+}
+.afaf{
+       background-color: rgb(218, 218, 218);
+       width: 100%;
+       height: 600px;
+       margin-top: 150px;
+       text-align: center;
+       padding-top: 10px;
+       display: flex;
+}
+.dsds{
+       border: 1px solid  none;
+       background-color: white;
+       height: 330px;
+       margin-top: 150px;
+       margin-left: 80px;
+}
+.saa{
+       position: relative;
+       left: 650px;
+
+}
+.ssa{
+       color: blueviolet;
+}
+.hola{
+       display: flex;
+}
+.saso{
+       margin-top: 100px;
+}
+.sosoo{
+       position: relative;
+       left: 650px;
+
+
+}
+.flo{
+       color: blueviolet;
+       margin-top: 200px;
+       position: relative;
+       right: -200px;
+       font-size: 30px;
+}
+.slo{
+       margin-top: 270px;
+       position: relative;
+       right: -50px;
+}
+.slow{
+       margin-top: 320px;
+       position: relative;
+       right: 60px;
+       
+
+}
+.bubu{
+       background-color: blueviolet;
+       color: white;
+       height: 30px;
+       width: 150px;;
+       font-size: 15px;
+       position: relative;
+       top: 400px;
+       left: -550px;
+       
+        
+}
+.bubu:hover{
+       background-color: rgb(103, 40, 163) ;
+}
+.seco{
+       outline: 1px solid gainsboro;
+       display: flex;
+       justify-content: space-around;
+       position: relative;
+       top: 200px;
+
+} 
+.lolo:hover{
+       background-color: rgb(91, 26, 153);
+}  
+.seso:hover{
+       background-color: rgb(103, 45, 158);
+}   
+.seso{
+       background-color: blueviolet;
+       color: white;
+}
+.lol{
+       margin-top: 45px;
+}
+.mama{
+       margin-top: 45px;
+}
+.das{
+       display: flex;
+       margin-top: 250px;
+       
+       
+}
+.dsa{
+       position: relative;
+       top: 350px;
+       left: 750px;
+      
+}
+.dsaa{
+       position: relative;
+       top: 150px;
+       left: 100px;
+}
+.cen{
+       margin-top: 200px;
+       text-align: center;
+}
+.scsc{
+       display: flex;
+       justify-content: space-around;
+       margin-top: 150px;
+
+
+}
+.kkk{
+       border-radius: 50px;
+}
+.kkkkkk{
+       outline: 1px solid gainsboro;
+       margin-top: 10px;
+}
+.kdkd{ color: blueviolet;
+       border: 1px solid gainsboro;
+       margin-top: 200px;
+       width: 250px;
+       padding-left: 5px;
+       margin-left: 50px;
+       height: 200px;
+       display: flex;
+       
+}
+.dsds{
+       margin-top: 200px;
+       padding-right: -100px;
+       padding-left: -100px;
+       color: black;
+       width: 100%;
+       margin-left: 10px;
+       border: 1px solid gainsboro;
+       width: 250px;
+       position: relative;
+       left: 150px;
+}
+.klkl{
+       position: relative;
+       left: 350px;
+       top: -400px;
+       color: black;
+}
+.afa{
+       width: 100px;
+       height: 600px;
+       margin-top: -400px;
+       text-align: center;
+       padding-top: -700px;
+       display: flex;
+       margin-left: 200px;
+       position: relative;
+       top: -250px;
+
+}
+
+.kkkkkk{
+       
+       display: inline;
+      position: relative;
+      left: 1300px;
+      top: -550px;
+      width: 50px;
+}
+.kkkkkk :hover{
+        background-color: gainsboro;
+}
+.lll{
+       border: 1px solid gainsboro;
+       width: 250px;
+       margin-left: 50px;
+       padding-left: 5px;
+       margin-top: 10px;
+}
+.klkl{
+       position: relative;
+       top: -650px;
+} 
+.afaa{
+       display: flex;
+       padding-top: 150px;
+       position: relative;
+       left: -750px;
+       margin: 10px;
+      
+}
+.dsdo{
+       margin-top: -100px;
+       padding-right: -100px;
+       padding-left: -100px;
+       color: black;
+       width: 100%;
+       height: 100%;
+       margin-left: 50px;
+       border: 1px solid gainsboro;
+       width: 250px;
+       position: relative;
+       left: 150px;
+}
+.dss{
+       margin-left: 80px;
+       margin-top: 40px;
+       
+}
+.afaas{
+       display: flex;
+       padding-top: 350px;
+       position: relative;
+       left: -906px;
+}
+.dsdod{ margin-top: -100px;
+       padding-right: -100px;
+       padding-left: -100px;
+       color: black;
+       width: 100%;
+       height: 145%;
+
+       margin-left: 50px;
+       border: 1px solid gainsboro;
+       width: 250px;
+       position: relative;
+       left: 150px;}
+
+.mafaas{
+       display: flex;
+       position: relative;
+       top: 350px;
+       left: -905px;
+       
+       
+}
+.dsdodo{
+       margin-top: -100px;
+       padding-right: -100px;
+       padding-left: -100px;
+       color: black;
+       width: 100%;
+       height: 145%;
+       margin-left: 50px;
+       border: 1px solid gainsboro;
+       width: 250px;
+       position: relative;
+       left: 150px;}
+}
+.slsls{
+       display: flex;
+       
+}
+.secoo{
+       position: relative;
+       left: 702px;
+       top: 1000px;
+}
+.medo{
+       display: flex;
+       height: 400px;
+       width: 1200px;
+       margin-top: 200px;
+     padding-top: 900px;
+       padding-left: 200px;;
+       justify-content: space-around;
+      
+
+}
+.dx:hover{
+       background-color: rgb(79, 19, 135);
+}
+
+.dddds{
+       width: 100%;
+       height: 100%;
+       border: 2px solid white;
+       margin: 30px;
+
+       position: relative;
+}
+.fsg{
+       position: absolute;
+       width: 100%;
+       height: 100%;
+       z-index: -1;
+}
+.fsg :hover{
+       transform: scale(3, 2);
+
+}
+.imge:hover{
+       transform: scale(2 , 2);
+}
+
+}
+.secoo{
+       text-align: center;
+       position: relative;
+       top: 900px;
+}
+
+
+.lals{
+       padding-top: 250px;
+       display: flex;
+} 
+.papa{
+      position: relative;
+      top: 100px;
+      margin: 40px;
+}
+.mama{
+       color: blueviolet;
+       position: relative;
+       top: 250px;
+       left: -650px;
+} 
+.slk{
+       position: relative;
+       top: 400px;
+       left: 550px;
+}
+.dx{
+       background-color: blueviolet;
+       color: white;
+       height: 30px;
+       width: 150px;
+       position: relative;
+       top: 400px;
+       left: -700px;
+}
+.ldk{
+       display: flex;
+
+}
+
+.table{
+       padding-top: 250px;
+       text-align: center;
+}
+.btab{
+       background-color: blueviolet;
+       color: white;
+}
+
+.btab:hover{
+       background-color: rgb(81, 27, 131);
+}
+.im{
+       padding-top: 30px;
+      
+       margin: 10px;
+}
+.pu{
+       background-color: blueviolet;
+       color: white;
+}
+  .out{
+       padding-left: 1350px;
+       position: relative;
+       top: -150px;
+  }     
+  .dsda{
+       padding-left: 1400px;
+       position: relative;
+       top: -150px;
+  }
+  .cla{
+       padding-left: 1200px;
+       position: relative;
+       top: -75px; 
+  }
+  .soda{
+      color: white;
+       background-color: blueviolet;
+      
+       position: relative;
+       top: -75px; 
+       left: 1270px;
+  }
+  .soda:hover{
+       background-color: rgb(91, 31, 147);
+  }
+  .ljklf{
+       border: 1px solid gainsboro;
+       margin-top: 200px;
+       width: 500px;
+       height: 400px;
+       margin-left: 50px;
+       padding-left: 20px;
+  }
+ 
+  .lkasa{
+text-align: center;
+justify-content: center;
+margin-top: 200px;
+}
+.last{
+       background-color: blueviolet;
+       color: white;
+}
+.last:hover{
+       background-color: rgb(73, 40, 104);
+}
+.lss{
+       position: relative;
+       right: -200px;
+}
+.lkdd{
+       position: relative;
+       top: 45px;
+}
+ 
+.del{
+       width: 400px;
+       height: 30px;
+}
+.detail{
+       position: relative;
+       top: 150px;
+       left: 50px;
+}
+.code{
+
+       border: 1px solid gainsboro;
+       margin-top: -400px;
+       width: 500px;
+       height: 150px;
+       margin-left: 800px;
+       padding-left: 20px;
+}
+.coco{
+       margin-top: 90px;
+       margin-left: -200px;
+       width: 200px;
+       height: 30px;;
+}
+.ddss{
+       display: flex;
+}
+.ldsa{
+       background-color: blueviolet;
+       color: white;
+       margin-top: 90px;
+       margin-left: 0px;
+       width: 200px;
+       height: 35px;    
+}
+.ldsa:hover{
+       background-color: rgb(89, 44, 132);
+}
+.sec{
+       display: flex;
+       margin-top: 50px;
+       margin-left: 50px;
+}
+.ldsl{
+       border: 1px solid gainsboro;
+       margin-top: 200px;
+       width: 500px;
+       height: 600px;
+       margin-left: -20px;
+       padding-left: 20px;   
+}
+.mar{
+       position: relative;
+       left: -50px;
+}
+.dsad{
+       width: 400px;
+       height: 30px;
+       margin-top: 10px;
+       background-color: white;
+       color: blueviolet;
+
+}
+.dsad:hover{
+       background-color: rgb(70, 20, 116);
+}
+.ad{
+       background-color: blueviolet;
+       color: white;
+       margin-top: 10px;
+       width: 400px;
+       height: 30px;
+
+}
+.ad:hover{
+       background-color: rgb(70, 21, 116);
+}
+.ldkf{
+       position: relative;
+       top: -100px;
+       font-size: 30px;
+}
+.ssddcc{
+       outline: 1px solid gainsboro;
+       display: flex;
+       justify-content: space-around;
+       position: relative;
+       top: 1000px;
+}
+
+
